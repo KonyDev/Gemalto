@@ -1,0 +1,55 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s04d1bbef4364c7a89b55f8894f0536c",
+    "_text_": "Unenroll your face",
+    "_top_": {
+        "type": "string",
+        "value": "55%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "260dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "focusSkin": "s7c5b5ecc92b45ffac128668d27d3811"
+    },
+    "displaytext": true,
+    "id": "btnUnEnroll",
+    "ide_onClick": "AS_Button_e90012699991477b99ed15a721777f0a",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": false,
+    "kuid": "bc763a608b4043f89848c337897c78bd",
+    "name": "kony.ui.Button",
+    "parent": "frmSetting",
+    "pf": "frmSetting",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

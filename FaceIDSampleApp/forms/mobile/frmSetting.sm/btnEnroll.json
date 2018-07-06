@@ -1,0 +1,55 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sedf5da6561f4e2f8302354544984ff4",
+    "_text_": "Enroll your face",
+    "_top_": {
+        "type": "string",
+        "value": "40%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "260dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "focusSkin": "s7c5b5ecc92b45ffac128668d27d3811"
+    },
+    "displaytext": true,
+    "id": "btnEnroll",
+    "ide_onClick": "AS_Button_f8047ea7856644cea48e9ef6f6294a40",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": false,
+    "kuid": "d3f6664951ec4a2ba2b4d3de20e87aac",
+    "name": "kony.ui.Button",
+    "parent": "frmSetting",
+    "pf": "frmSetting",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

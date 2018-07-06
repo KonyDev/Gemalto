@@ -1,0 +1,24 @@
+{
+    "AS_UWI_fe28bfdb06c64a469e6ff986ec78c4aa": {
+        "id": "AS_UWI_fe28bfdb06c64a469e6ff986ec78c4aa",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "error",
+            "datatype": "collection"
+        }],
+        "contextObj": {
+            "name": "frmSetting",
+            "type": "forms",
+            "platform": "",
+            "KUID": "hcdd893fac4e4e57bb2edeca3d803d05"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__ie9ed6d81eeb42d3a12e6c12f84e55f5",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "alert(\"Face Verification failed  \"+JSON.stringify(error));",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "AS_UWI_e6cc9309a5cf4adbae1843826938aa12": {
+        "id": "AS_UWI_e6cc9309a5cf4adbae1843826938aa12",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "error",
+            "datatype": "collection"
+        }],
+        "contextObj": {
+            "name": "frmSetting",
+            "type": "forms",
+            "platform": "",
+            "KUID": "hcdd893fac4e4e57bb2edeca3d803d05"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__fb4d5c592b394b039de9ee6bcd658480",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "alert(\"Initialisation Failed   \"+JSON.stringify(error));",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

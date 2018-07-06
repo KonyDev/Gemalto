@@ -1,0 +1,78 @@
+{
+    "NativeFunctionAPI": {
+        "iOS": {
+            "11.0": {
+                "Kony_SDKCommons-iOS-11.0": {
+                    "title": "Kony_SDKCommons",
+                    "platform": "iOS",
+                    "os": "11.0",
+                    "url": "C:\\KonyVisualizerEnterprise8.1.0.0\\Kony_Visualizer_Enterprise\\configuration\\org.eclipse.osgi\\bundles\\555\\1\\.cp\\resources\\sdk\\nativeBindings\\Kony_SDKCommons-iOS-11.0.zip",
+                    "filepath": "D:\\gemPrince\\Projects\\Gems\\nativebindings\\iOS\\11.0\\Kony_SDKCommons-iOS-11.0.zip",
+                    "enable": true
+                },
+                "Kony_SyncV2-iOS-11.0": {
+                    "title": "Kony_SyncV2",
+                    "platform": "iOS",
+                    "os": "11.0",
+                    "url": "C:\\KonyVisualizerEnterprise8.1.0.0\\Kony_Visualizer_Enterprise\\configuration\\org.eclipse.osgi\\bundles\\555\\1\\.cp\\resources\\sdk\\nativeBindings\\Kony_SyncV2-iOS-11.0.zip",
+                    "filepath": "D:\\gemPrince\\Projects\\Gems\\nativebindings\\iOS\\11.0\\Kony_SyncV2-iOS-11.0.zip",
+                    "enable": true
+                },
+                "KonyFaceSDK-4.5.1-iOS-11.0": {
+                    "title": "KonyFaceSDK-4.5.1",
+                    "platform": "iOS",
+                    "os": "11.0",
+                    "url": "D:\\gemPrince\\Projects\\.nativebindings\\iOS\\11.0\\KonyFaceSDK-4.5.1-iOS-11.0.zip",
+                    "filepath": "D:\\gemPrince\\Projects\\Gems\\nativebindings\\iOS\\11.0\\KonyFaceSDK-4.5.1-iOS-11.0.zip",
+                    "enable": true
+                }
+            }
+        },
+        "Android": {
+            "4.0": {
+                "Kony_SDKCommons-Android-4.0": {
+                    "title": "Kony_SDKCommons",
+                    "platform": "Android",
+                    "os": "4.0",
+                    "url": "C:\\KonyVisualizerEnterprise8.1.0.0\\Kony_Visualizer_Enterprise\\configuration\\org.eclipse.osgi\\bundles\\555\\1\\.cp\\resources\\sdk\\nativeBindings\\Kony_SDKCommons-Android-4.0.zip",
+                    "filepath": "D:\\gemPrince\\Projects\\Gems\\nativebindings\\Android\\4.0\\Kony_SDKCommons-Android-4.0.zip",
+                    "enable": true
+                },
+                "Kony_SyncV2-Android-4.0": {
+                    "title": "Kony_SyncV2",
+                    "platform": "Android",
+                    "os": "4.0",
+                    "url": "C:\\KonyVisualizerEnterprise8.1.0.0\\Kony_Visualizer_Enterprise\\configuration\\org.eclipse.osgi\\bundles\\555\\1\\.cp\\resources\\sdk\\nativeBindings\\Kony_SyncV2-Android-4.0.zip",
+                    "filepath": "D:\\gemPrince\\Projects\\Gems\\nativebindings\\Android\\4.0\\Kony_SyncV2-Android-4.0.zip",
+                    "enable": true
+                }
+            },
+            "6.0": {
+                "GemaltoFaceAuthUI-Android-6.0": {
+                    "title": "GemaltoFaceAuthUI",
+                    "platform": "Android",
+                    "os": "6.0",
+                    "url": "D:\\gemPrince\\Projects\\.nativebindings\\Android\\6.0\\GemaltoFaceAuthUI-Android-6.0.zip",
+                    "filepath": "D:\\gemPrince\\Projects\\Gems\\nativebindings\\Android\\6.0\\GemaltoFaceAuthUI-Android-6.0.zip",
+                    "enable": true
+                },
+                "FaceUISDK-Android-6.0": {
+                    "title": "FaceUISDK",
+                    "platform": "Android",
+                    "os": "6.0",
+                    "url": "D:\\gemPrince\\Projects\\.nativebindings\\Android\\6.0\\FaceUISDK-Android-6.0.zip",
+                    "filepath": "D:\\gemPrince\\Projects\\Gems\\nativebindings\\Android\\6.0\\FaceUISDK-Android-6.0.zip",
+                    "enable": true
+                },
+                "GemaltoSDK-Android-6.0": {
+                    "title": "GemaltoSDK",
+                    "platform": "Android",
+                    "os": "6.0",
+                    "url": "D:\\gemPrince\\Projects\\.nativebindings\\Android\\6.0\\GemaltoSDK-Android-6.0.zip",
+                    "filepath": "D:\\gemPrince\\Projects\\Gems\\nativebindings\\Android\\6.0\\GemaltoSDK-Android-6.0.zip",
+                    "enable": true
+                }
+            }
+        }
+    }
+}

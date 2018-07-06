@@ -1,0 +1,24 @@
+{
+    "AS_UWI_d393c5c5ff3247a48068f0bd3aed14e2": {
+        "id": "AS_UWI_d393c5c5ff3247a48068f0bd3aed14e2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "name": "error",
+            "datatype": "collection"
+        }],
+        "contextObj": {
+            "name": "frmSetting",
+            "type": "forms",
+            "platform": "",
+            "KUID": "hcdd893fac4e4e57bb2edeca3d803d05"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__c1f46d5b4edd45fabf8f71134d78ab29",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "alert(\"Face enrollment Failed  \"+JSON.stringify(error));",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}
